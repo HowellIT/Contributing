@@ -2,6 +2,10 @@
 
 This is the definitive guide to contributing to Howell IT sponsored open source PowerShell projects.
 
+Here is our CONTRIBUTING.md template:
+
+[CONTRIBUTING.md](https://github.com/HowellIT/Contributing/blob/master/.github/CONTRIBUTING.md)
+
 The current list includes:
 
  - [PSSherpaDesk](https://github.com/theposhwolf/PSSherpaDesk)
