@@ -14,7 +14,7 @@ You must have a [GitHub account](https://github.com/join).
 
 The fundamental block of contributing is to first submit an issue. This can be anything from a bug to a feature that you think should be added. You don't need to know how to fix or complete your issue to be able to submit it. Essentially, if you see something, say something!
 
-If you find a bug, do your best to discover the source of the bug. If you can't find it, don't worry! Provide as much detail as you can in your issue. We'll take a look.
+If you find a bug, do your best to discover the source of the bug. If you are unable to determine its source, don't worry! Provide as much detail as you can in your issue. We'll take a look.
 
 If you are suggesting a change, please fully explain your rationale for the change. If you have supporting evidence, be sure to link to that.
 
@@ -46,7 +46,7 @@ If there are tests in the project, be sure that all tests pass.
 
 All PRs should be submitted against the master branch.
 
-When submitting a PR, be verbose with what it is that you are changing. If you are resolving an issue, be sure to summarize what that issue is. The project maintainers expect to be able to familiarize themselves with the entire resolution by simply reading the PR and not having to read through any issues.
+When submitting a PR, be verbose with what it is that you are changing. If you are resolving an issue, be sure to summarize what that issue is. The project maintainers expect to be able to familiarize themselves with the entire resolution by simply reading the PR and not having to read through the related issues, though they will if more detail is needed.
 
 You can expect that the PR will be reviewed by a project maintainer before merging.
 
@@ -54,4 +54,4 @@ You can expect that the PR will be reviewed by a project maintainer before mergi
 
 ## Further reading
 
-[Howell IT](https://howell-it.com/open-source)
+[Open source at Howell IT](https://howell-it.com/open-source)
