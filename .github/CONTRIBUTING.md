@@ -12,9 +12,13 @@ You must have a [GitHub account](https://github.com/join).
 
 ## Submitting an issue
 
-The fundamental block of contributing is to first submit an issue. This can be anything from a bug to a feature that you think should be added. You don't need to know how to fix or complete your issue to be able to submit it.
+The fundamental block of contributing is to first submit an issue. This can be anything from a bug to a feature that you think should be added. You don't need to know how to fix or complete your issue to be able to submit it. Essentially, if you see something, say something!
 
-Essentially, if you see something, say something!
+If you find a bug, do your best to discover the source of the bug. If you can't find it, don't worry! Provide as much detail as you can in your issue. We'll take a look.
+
+If you are suggesting a change, please fully explain your rationale for the change. If you have supporting evidence, be sure to link to that.
+
+If you are requesting a feature improvement, please flesh out your request as much as you possibly can to provide us with enough detail to properly capture your vision.
 
 [Creating an issue](https://help.github.com/articles/creating-an-issue/)
 
@@ -26,7 +30,7 @@ Unless otherwise stated, you should fork the master branch.
 
 ## Make your changes
 
-Follow the [Unofficial PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle).
+All code should follow the [Unofficial PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle).
 
 Any commits you make should also be full of good explanation.
 
@@ -41,6 +45,10 @@ If there are tests in the project, be sure that all tests pass.
 ## Submit a PR
 
 All PRs should be submitted against the master branch.
+
+When submitting a PR, be verbose with what it is that you are changing. If you are resolving an issue, be sure to summarize what that issue is. The project maintainers expect to be able to familiarize themselves with the entire resolution by simply reading the PR and not having to read through any issues.
+
+You can expect that the PR will be reviewed by a project maintainer before merging.
 
 [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
